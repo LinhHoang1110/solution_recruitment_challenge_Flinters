@@ -1,0 +1,3 @@
+module ad-aggregator
+
+go 1.21
